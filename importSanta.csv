@@ -1,0 +1,10 @@
+boxNameF,keyF,pictureF,usePost,useCashLimit,cashLimit,cashLimitCurrency,useWish,useNames,isPhoneRequired
+,testKey,tree,true,true,1,byn,true,true,true
+test,,tree,true,true,1,byn,true,true,true
+test,testKey,tree,,true,1,byn,true,true,true
+test,testKey,tree,true,,1,byn,true,true,true
+test,testKey,tree,true,true,,byn,true,true,true
+test,testKey,tree,true,true,1,,true,true,true
+test,testKey,tree,true,true,1,byn,,true,true
+test,testKey,tree,true,true,1,byn,true,,true
+test,testKey,tree,true,true,1,byn,true,true,
